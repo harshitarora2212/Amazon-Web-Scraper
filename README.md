@@ -34,10 +34,8 @@ Respect robots.txt and rate limits
 
 ### 📈 Roadmap
 
- > Add proxy rotation support
- > Implement CAPTCHA solving integration
- > Add product variation scraping
- > Include customer review extraction
- > Support for other Amazon marketplaces (.uk, .de, etc.)
- REST API interface
- Real-time monitoring dashboard
+- Add proxy rotation support  
+- Implement CAPTCHA solving integration  
+- Add product variation scraping  
+- Include customer review extraction  
+- Support for other Amazon marketplaces (.uk, .de, etc.)
