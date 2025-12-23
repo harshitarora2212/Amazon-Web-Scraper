@@ -27,15 +27,7 @@ Support for any US ZIP code
 Automatic location switching per thread
 
 # ⚠️ Important Notes
-Rate Limiting
+## Legal Considerations
 
-Amazon may block excessive requests
-Recommended: Max 5 parallel workers for extended scraping
-Add delays between requests if encountering blocks
-
-Legal Considerations
-
-Review Amazon's Terms of Service before scraping
 For educational and personal use only
-Do not use for commercial purposes without permission
 Respect robots.txt and rate limits
