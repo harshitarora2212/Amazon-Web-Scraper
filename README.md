@@ -4,33 +4,33 @@ A high-performance, multi-threaded Amazon product scraper built with Python, Sel
 ## 🚀 Key Features
 ### ⚡ Parallel Processing Engine
 
-Multi-threaded architecture using ThreadPoolExecutor for concurrent scraping
-Configurable worker threads - scale from 1 to N parallel operations
-Automatic task distribution across available workers
-3-10x faster than sequential scraping depending on network conditions
+- Multi-threaded architecture using ThreadPoolExecutor for concurrent scraping
+- Configurable worker threads - scale from 1 to N parallel operations
+- Automatic task distribution across available workers
+- 3-10x faster than sequential scraping depending on network conditions
 
 ### 📊 Comprehensive Data Extraction
 
-Product titles, descriptions, and specifications
-Real-time pricing (List Price, Selling Price, Discounts)
-Customer ratings and review counts
-Availability status (In Stock, Out of Stock, etc.)
-Seller information (Ships From, Sold By)
-Coupon and promotional data
-High-resolution product images
+- Product titles, descriptions, and specifications
+- Real-time pricing (List Price, Selling Price, Discounts)
+- Customer ratings and review counts
+- Availability status (In Stock, Out of Stock, etc.)
+- Seller information (Ships From, Sold By)
+- Coupon and promotional data
+- High-resolution product images
 
 ### 🗺️ Multi-Location Support
 
-Scrape products across multiple ZIP codes simultaneously
-Compare pricing and availability by location
-Support for any US ZIP code
-Automatic location switching per thread
+- Scrape products across multiple ZIP codes simultaneously
+- Compare pricing and availability by location
+- Support for any US ZIP code
+- Automatic location switching per thread
 
 ## ⚠️ Important Notes
 ### Legal Considerations
 
-For educational and personal use only
-Respect robots.txt and rate limits
+- For educational and personal use only
+- Respect robots.txt and rate limits
 
 ### 📈 Roadmap
 
