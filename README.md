@@ -1,7 +1,7 @@
 # Amazon-Web-Scraper
 A high-performance, multi-threaded Amazon product scraper built with Python, Selenium, and BeautifulSoup. Features intelligent parallel processing to scrape multiple products across different locations simultaneously, dramatically reducing scraping time.
 
-# 🚀 Key Features
+## 🚀 Key Features
 # ⚡ Parallel Processing Engine
 
 Multi-threaded architecture using ThreadPoolExecutor for concurrent scraping
