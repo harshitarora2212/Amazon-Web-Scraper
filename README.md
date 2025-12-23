@@ -31,3 +31,14 @@ Automatic location switching per thread
 
 For educational and personal use only
 Respect robots.txt and rate limits
+
+## 📈 Roadmap
+
+ Add proxy rotation support
+ Implement CAPTCHA solving integration
+ Add product variation scraping
+ Include customer review extraction
+ Support for other Amazon marketplaces (.uk, .de, etc.)
+ Docker containerization
+ REST API interface
+ Real-time monitoring dashboard
